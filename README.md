@@ -1,6 +1,5 @@
 # AOC2020
 
-# About
 * Author: Jeffrey Box
 * Title: Advent of Code Solutions - 2020
 * Link: https://adventofcode.com/

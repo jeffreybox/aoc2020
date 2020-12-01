@@ -9,4 +9,4 @@
 | Day            | Language     | Approach                             |
 | :------------- | :----------: | -----------:                         |
 | 1              | Python       | Nested for-loops with Numpy & Pandas |
-| 2              | TBD          | TBD                                 \|
+| 2              | TBD          | TBD                                  |

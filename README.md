@@ -8,4 +8,5 @@
 | Day            | Language     | Approach                             |
 | :------------- | :----------: | -----------:                         |
 | 1              | Python       | Nested for-loops with Numpy & Pandas |
-| 2              | TBD          | TBD                                  |
+| 2              | Python       | Conditional testing with Numpy & Pandas |
+| 3              | TBD       | TBD |

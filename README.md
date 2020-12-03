@@ -9,4 +9,4 @@
 | :------------- | :----------: | -----------:                         |
 | 1              | Python       | Nested for-loops with Numpy & Pandas |
 | 2              | Python       | Conditional testing with Numpy & Pandas |
-| 3              | TBD       | TBD |
+| 3              | Python       | simple strings & list comprehenstion |

@@ -10,4 +10,5 @@
 | 1              | Python       | Nested for-loops with Numpy & Pandas |
 | 2              | Python       | Conditional testing with Numpy & Pandas |
 | 3              | Python       | Strings & list comprehension |
-| 4              | TBD       | TBD |
+| 4              | Python       | Data validation with native Python & regex |
+| 5              | TBD       | TBD |

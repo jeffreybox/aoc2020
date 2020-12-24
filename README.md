@@ -12,4 +12,5 @@
 | 3              | Python       | Strings & list comprehension |
 | 4              | Python       | Data validation with native Python & regex |
 | 5              | Python       | Finding midpoints, sets, and list differences |
-| 6              | Python       | TBD |
+| 6              | Python       | Uses ast and Counter libraries |
+| 7              | Python       | TBD |

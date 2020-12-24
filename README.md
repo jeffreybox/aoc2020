@@ -11,4 +11,5 @@
 | 2              | Python       | Conditional testing with Numpy & Pandas |
 | 3              | Python       | Strings & list comprehension |
 | 4              | Python       | Data validation with native Python & regex |
-| 5              | TBD       | TBD |
+| 5              | Python       | Finding midpoints, sets, and list differences |
+| 6              | Python       | TBD |

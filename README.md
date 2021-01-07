@@ -13,4 +13,4 @@
 | 4              | Python       | Data validation with native Python & regex |
 | 5              | Python       | Finding midpoints, sets, and list differences |
 | 6              | Python       | Uses ast and Counter libraries |
-| 7              | Python       | Failed attempt with NetworkX and used regex and recursive loops |
+| 7              | Python       | Failed Networkx; regex and recursive loops |
